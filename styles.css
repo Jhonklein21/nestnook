@@ -104,7 +104,6 @@ body {
 
 .product-details {
     flex: 1;
-     justify content: center;
 }
 
 .product-details h3 {
@@ -130,6 +129,7 @@ body {
     text-decoration: none;
     border-radius: 5px;
     font-size: 1.1rem;
+    margin: 0 auto;
 }
 
 .btn-buy:hover {
